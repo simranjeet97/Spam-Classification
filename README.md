@@ -3,3 +3,5 @@ Spam Classification Using Natural Language Processing (NLP), Scikit-Learn Librar
 1. Using NLP for Spam Classification.
 2. Using Bayesian Method for Spam Classification.
 3. Enron and Spam-Ham Dataset for Emails.
+
+Download Enron Dataset - http://www.aueb.gr/users/ion/data/enron-spam/
